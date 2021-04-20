@@ -1,0 +1,6 @@
+Election_Results
+----------------------
+{'Khan': '63.0%', 'Correy': '20.0%', 'Li': '14.0%', "O'Tooley": '3.0%'}Khan
+----------------------
+Winner: h
+Total Votes 3521001
